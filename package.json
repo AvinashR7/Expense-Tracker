@@ -1,0 +1,23 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "An expense tracker web application built using Express.js is a powerful tool designed to help individuals and businesses effectively manage their finances. This application allows users to record, categorize, and monitor their expenses, providing valuable insights into their spending habits and financial health. Here's a description of the key features and functionalities of an expense tracker web application built using Express.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AvinashR7/Expense-Tracker.git"
+  },
+  "author": "Avinash Reddy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AvinashR7/Expense-Tracker/issues"
+  },
+  "homepage": "https://github.com/AvinashR7/Expense-Tracker#readme",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  }
+}
